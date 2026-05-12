@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm William
 
-<!--
-**wlmdatawizard/wlmdatawizard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring data engineer currently building hands-on projects with:
 
-Here are some ideas to get you started:
+- Python
+- SQL
+- AWS
+- Pandas
+- Streamlit
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+- Data cleaning and normalization
+- ETL and data pipeline development
+- AWS cloud storage and workflows
+- Real-world portfolio projects
+
+## Projects In Progress
+- Streamlit Data Normalization Tool
+- AWS S3 Pipeline Practice
+- Data Transformation Utilities
+- SQL Practice and Query Development
+
+## Goals
+- Transition into data engineering
+- Build production-style cloud projects
+- Develop strong AWS and pipeline skills
