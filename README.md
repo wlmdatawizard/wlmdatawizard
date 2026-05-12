@@ -1,4 +1,4 @@
-# Hi, I'm William
+# Hi, I'm Will
 
 I'm an aspiring data engineer currently building hands-on projects with:
 
