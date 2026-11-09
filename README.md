@@ -18,3 +18,5 @@ A batch pipeline that profiles and validates inventory records with PySpark, wri
 **Python · pandas · Streamlit**
 
 An interactive app for profiling CSV files, previewing transformations, and reviewing invalid values. It exports cleaned datasets, validation reports, and reusable pandas code.
+
+I’m looking for a data engineering role where I can build and maintain batch pipelines and improve data quality.
