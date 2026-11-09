@@ -1,46 +1,20 @@
-# Hi, I'm Will 👋
+# Hi, I’m Will
 
-I'm an aspiring **Data Engineer** with a passion for designing reliable, production-style data pipelines and solving real-world data problems.
+I build batch data pipelines with Python and SQL. My projects focus on validating messy source data, making rejected records easy to investigate, and turning clean data into outputs people can query and report on.
 
-## 🛠️ Tech Stack
+## Featured Projects
 
-* Python
-* SQL
-* PySpark
-* AWS (S3, Glue, Athena)
-* Pandas
-* Streamlit
-* Git & GitHub
+### [CleanStar](https://github.com/wlmdatawizard/CleanStar)
+**Python · SQL · Snowflake · Power BI**
 
-## 🚀 Current Focus
+A batch pipeline that loads and validates synthetic healthcare data in Snowflake. It preserves source values, records why rows were quarantined, and presents the results in Power BI. A documented Snowflake run accounted for all 99,209 input records across claims, encounters, patients, and providers.
 
-* Building end-to-end ETL pipelines
-* Cloud-native data engineering with AWS
-* Data quality validation and normalization
-* Production-inspired data lake architecture
-* Expanding my portfolio with real-world projects
+### [MonsterForge Azure](https://github.com/wlmdatawizard/monsterforge-azure-data-engineering)
+**Python · PySpark · Azure Blob Storage · Azure SQL Database**
 
-## 📂 Featured Projects
+A batch pipeline that profiles and validates inventory records with PySpark, writes clean and quarantined outputs to Azure Blob Storage, and loads accepted records into Azure SQL Database. Run IDs connect the exported files to the records loaded into SQL.
 
-### 🧪 MonsterForge AWS ETL Pipeline
+### [Data Cleaning Toolkit](https://github.com/wlmdatawizard/data-cleaning-toolkit)
+**Python · pandas · Streamlit**
 
-An end-to-end ETL pipeline built with **PySpark, Amazon S3, AWS Glue, Amazon Athena, and boto3** featuring:
-
-* Automated data quality validation
-* Clean / Quarantine processing
-* Versioned data lake (`latest` + `run_id`)
-* AWS Glue Data Catalog automation
-* Athena validation queries
-
-➡️ **Featured Repository:** `Monster_Forge_ETL`
-
-## 🎯 Goals
-
-* Transition into a Data Engineering role
-* Continue building production-quality cloud projects
-* Deepen my expertise in AWS, PySpark, and modern data platforms
-* Contribute to open-source and data engineering communities
-
----
-
-*"Every dataset tells a story. My goal is to build the pipelines that make those stories reliable, scalable, and actionable."*
+An interactive app for profiling CSV files, previewing transformations, and reviewing invalid values. It exports cleaned datasets, validation reports, and reusable pandas code.
